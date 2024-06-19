@@ -12,8 +12,8 @@ export default function Profile() {
                         Meat Our Talented Team
                     </h5>
                 </div>
-                <div className='ProfileHead2'>
-                    <p ProfilePara>
+                <div className='profileHead2'>
+                    <p>
                         At AMA Solutions, our team consists of dedicated professionals that exceed client expectations and leveraging the latest industry trends and technologies.We believe in learn well,work well and live well.
                     </p>
 
