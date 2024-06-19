@@ -1509,40 +1509,6 @@
 
 
 /* --------------------Component 12-Contact-------------------  */
-.ContactContainer {
-  background-color: aliceblue;
-  background-image: url('C:\Users\usman\Desktop\6th Semester\React\AMA\my_app\public\office.jpg');
-  background-size: cover;
-  background-position: center;
-  height: 1050px;
-  width: 1343px;
-  display: grid;
-  grid-template-columns: 700px auto;
-}
-
-.ContactItemLeft {
-  margin-top: 700px;
-  opacity: 1;
-  margin-left: 200px;
-  font-size: large;
-  color: white;
-  text-align: justify;
-}
-
-.ContactButton2 {
-  margin-top: 800px;
-  margin-left: 150px;
-  height: 50px;
-  width: 200px;
-  background-color: transparent;
-  color: aliceblue;
-  border: solid 0.5px;
-  border-radius: 10px;
-}
-
-.ContactButton2:hover {
-  background-color: rgb(18, 60, 119);
-}
 
 /*--------------------Component 13-Footer-----------------*/
 .footer {
