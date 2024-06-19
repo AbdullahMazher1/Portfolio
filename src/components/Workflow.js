@@ -14,7 +14,7 @@ export default function Workflow() {
           </h1>
         </div>
         <div>
-          <img className='ImWorkflow' src='Workflow.png'/>
+          <img className='ImWorkflow' src='Workflow.png' alt=''/>
         </div>
     </div>
   )

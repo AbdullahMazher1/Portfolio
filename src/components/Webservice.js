@@ -1,4 +1,3 @@
-import React, { forwardRef } from 'react';
 
 export default function Webservice({ title, subtitle, im, disp }) {
     return (
@@ -22,7 +21,7 @@ export default function Webservice({ title, subtitle, im, disp }) {
                 </div>
             </div>
             <div className='ServiceItemRight'>
-                <img className='ImWebService' src={im} />
+                <img className='ImWebService' src={im} alt='' />
             </div>
         </div>
     )

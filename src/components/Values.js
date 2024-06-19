@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 
 export default function Values() {
   const array = ['Customer-Centric Approach', 'Innovation and Excellence', 'Integrity and Transparency', 'Collaboration and Teamwork'];

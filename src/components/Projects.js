@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 
 export default function Projects() {
     const pointofsaleDisp1 = 'We have created and deployed a comprehensive Point of Sale (POS) application for fast food businesses, ensuring a seamless and efficient process for managing sales and transactions. We can create and maintain your fast food POS application so that you can focus on revenue streams. We created and maintained POS system so that you can focus on revenue streams.';
@@ -99,7 +99,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div>
-                    <img className='ImProject' src='10.png' />
+                    <img className='ImProject' src='10.png' alt='' />
                 </div>
             </div>
         </div>
